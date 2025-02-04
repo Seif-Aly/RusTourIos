@@ -30,7 +30,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		30406C5B2D50B085007F55F2 /* Exceptions for "TravelApp" folder in "TravelApp" target */ = {
+		30406C5B2D50B085007F55F2 /* Exceptions for "RusTourIos" folder in "TravelApp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -40,12 +40,12 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		30406C352D50B081007F55F2 /* TravelApp */ = {
+		30406C352D50B081007F55F2 /* RusTourIos */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				30406C5B2D50B085007F55F2 /* Exceptions for "TravelApp" folder in "TravelApp" target */,
+				30406C5B2D50B085007F55F2 /* Exceptions for "RusTourIos" folder in "TravelApp" target */,
 			);
-			path = TravelApp;
+			path = RusTourIos;
 			sourceTree = "<group>";
 		};
 		30406C4C2D50B085007F55F2 /* TravelAppTests */ = {
@@ -88,7 +88,7 @@
 		30406C2A2D50B081007F55F2 = {
 			isa = PBXGroup;
 			children = (
-				30406C352D50B081007F55F2 /* TravelApp */,
+				30406C352D50B081007F55F2 /* RusTourIos */,
 				30406C4C2D50B085007F55F2 /* TravelAppTests */,
 				30406C562D50B085007F55F2 /* TravelAppUITests */,
 				30406C342D50B081007F55F2 /* Products */,
@@ -121,7 +121,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				30406C352D50B081007F55F2 /* TravelApp */,
+				30406C352D50B081007F55F2 /* RusTourIos */,
 			);
 			name = TravelApp;
 			packageProductDependencies = (
@@ -294,7 +294,6 @@
 				INFOPLIST_FILE = TravelApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -322,7 +321,6 @@
 				INFOPLIST_FILE = TravelApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
